@@ -1,2 +1,2 @@
 # sudoku-puzzle-solver
-using ai to solve sudoku puzzle
+using Backtracking and generic ai algorithms to solve sudoku puzzle
